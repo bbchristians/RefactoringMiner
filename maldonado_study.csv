@@ -1,5 +1,5 @@
-https://github.com/apache/camel,9d83855589bb8bfc3233433e21b3ce9c1f4d6d86
-https://github.com/GerritCodeReview/gerrit,83415257b4e1d96e561560a0923a5b3cfacddb22
-https://github.com/apache/hadoop,23f937e3b718f607d4fc975610ab3a03265f0f7e
-https://github.com/apache/log4j,94eff9a041300970516ea866f8f0420d1cc75355
-https://github.com/apache/tomcat,4166a2b96f482f8bf7b0024836dab53d3594710e
+https://github.com/apache/camel,9d83855589bb8bfc3233433e21b3ce9c1f4d6d86,77b260b65ba821b3443d922320cc3d9b708c8d83
+https://github.com/GerritCodeReview/gerrit,83415257b4e1d96e561560a0923a5b3cfacddb22,0cec9e6f7ff1e62ce7f4e487e6a06e2a973baeb7
+https://github.com/apache/hadoop,23f937e3b718f607d4fc975610ab3a03265f0f7e,5128a9a453d64bfe1ed978cf9ffed27985eeef36
+https://github.com/apache/log4j,94eff9a041300970516ea866f8f0420d1cc75355,bf15d7fe3214cbd4be1c2b998de915e7f801efc6
+https://github.com/apache/tomcat,4166a2b96f482f8bf7b0024836dab53d3594710e,a84fabcbc6fee8a69253ad92a304b4718e96a7c9

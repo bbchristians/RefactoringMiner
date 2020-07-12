@@ -12,7 +12,8 @@ CREATE TABLE IF NOT EXISTS satd.Refactoring (
 CREATE TABLE IF NOT EXISTS satd.RefactoringInFile (
 	ref_id INT,
     file_path varchar(4096),
-    class varchar(4096),
+    class varchar(512),
+    method varchar(512),
     start_line int,
     end_line int,
     is_before bool,
